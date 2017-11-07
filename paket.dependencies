@@ -3,3 +3,6 @@ storage: none
 framework: netcoreapp1.1
 
 nuget Newtonsoft.json
+nuget Microsoft.NETCore.Platforms < 2
+nuget NETStandard.Library < 2
+nuget Microsoft.NETCore.Targets < 2
