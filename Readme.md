@@ -1,0 +1,1 @@
+Repro sample for paket issue that `dotnet publish --self-cointained --runtime win10-x64` does not work
