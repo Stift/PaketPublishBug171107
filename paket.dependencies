@@ -1,5 +1,5 @@
 source https://www.nuget.org/api/v2
 storage: none
-framework: netcoreapp1.1
+framework: netcoreapp2.0
 
 nuget Newtonsoft.json
